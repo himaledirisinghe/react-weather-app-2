@@ -14,8 +14,8 @@ export default function Main({ children }) {
         {children}
 
         <div className="footer">
-          <a href="mailto:info@fidenz.com?subject=Weather%20App&body=Hello%20Fidenz%20Technologies">
-            2023 Fidenz Technologies
+          <a href="mailto:info@abc.com?subject=Weather%20App&body=Hello%20Abc%20Corporation">
+            2023 Abc Corporation
           </a>
         </div>
         
